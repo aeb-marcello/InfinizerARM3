@@ -1,4 +1,4 @@
-#include <InfinizerARM3.h>
+#include <InfinizerARM.h>
 Robot robot;
 int ok;
 int distance = 22;

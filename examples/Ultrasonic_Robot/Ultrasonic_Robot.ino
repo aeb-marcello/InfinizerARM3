@@ -1,4 +1,4 @@
-#include <InfinizerARM3.h>
+#include <InfinizerARM.h>
 #define trigger1 13
 #define echo1 12
 uint16_t distance;

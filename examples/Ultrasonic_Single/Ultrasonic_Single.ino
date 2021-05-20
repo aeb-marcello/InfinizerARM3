@@ -1,4 +1,4 @@
-#include <InfinizerARM3.h>
+#include <InfinizerARM.h>
 int trigger = 13;
 int echo = 12;
 long distancia;
